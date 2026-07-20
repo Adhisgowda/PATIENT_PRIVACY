@@ -1,7 +1,7 @@
-# Heiofp Patient Privacy Policy
+# Heapiq Patient Privacy Policy
 *Last Updated: July 2026*
 
-At Heiofp, privacy is a fundamental right. We design our systems around data minimization and user-control principles.
+At Heipiq, privacy is a fundamental right. We design our systems around data minimization and user-control principles.
 
 ### 1. Source-Level Data Masking & Zero-Knowledge Architecture
 We deploy Source-Level Masking to prevent unauthorized data exposure:
@@ -17,4 +17,4 @@ In strict accordance with India's Digital Personal Data Protection (DPDP) Act an
 *   **Revocable Access:** You retain granular control over which hospitals can view your ABHA health records, and you can revoke this structural data-sharing permission at any time directly through the app settings.
 
 ### 4. Changes to this Privacy Policy
-Heiofp may revise this Privacy Policy at any time to reflect changing regulations, security patches, or product updates. Revised documents will be posted directly here with an updated timestamp.
+Heapiq may revise this Privacy Policy at any time to reflect changing regulations, security patches, or product updates. Revised documents will be posted directly here with an updated timestamp.
